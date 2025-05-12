@@ -1,2 +1,5 @@
 # My-React-Notes
-Personal notes and code snippets while learning React.
+React Typscript dosyası nasıl oluşturulur?
+1- Yeni bir klasör oluşturup terminale * npm create vite * komutu girilir.
+2- Proje adı girilir ve react, ardından react-ts seçlir.
+3- Oluşan dosyalarda yeni oluşan dosya içindeki tüm dosyalar kopyalanıp ana kalsörün içine yapıştırılır.
